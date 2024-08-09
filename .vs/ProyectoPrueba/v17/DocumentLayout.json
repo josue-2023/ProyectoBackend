@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\usuarioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\usuarioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\irepositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\irepositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\repositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\repositoriodetallepedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\repositoriodetallepedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\irepositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\irepositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\repositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\irepositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\irepositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\repositorioordens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\repositorioordens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\proyectoprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\proyectoprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240806220253_nulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoPrueba\\Migrations\\20240806220253_nulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\irepositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\irepositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\repositoriocategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\irepositoriodetallepedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\irepositoriodetallepedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240804202702_Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoPrueba\\Migrations\\20240804202702_Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\servicios\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF79A85-B96A-4B7A-9476-232350657B20}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\repositorios\\irepositorioordens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\repositorios\\irepositorioordens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\migrations\\20240804204404_productos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\migrations\\20240804204404_productos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\migrations\\20240804202926_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\migrations\\20240804202926_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\migrations\\20240806183135_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\migrations\\20240806183135_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|c:\\users\\josue\\source\\repos\\proyectoprueba\\proyectoprueba\\migrations\\20240806231425_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C6D995-AED9-4033-BA39-306F5CA01801}|ProyectoPrueba\\ProyectoPrueba.csproj|solutionrelative:proyectoprueba\\migrations\\20240806231425_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioC.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\UsuarioC.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\UsuarioC.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\UsuarioC.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\UsuarioC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:39:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240806231425_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240806231425_Usuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Migrations\\20240806231425_Usuarios.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240806231425_Usuarios.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Migrations\\20240806231425_Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:14:25.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAIBJwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:08:31.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240806220253_nulos.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240806220253_nulos.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Migrations\\20240806220253_nulos.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240806220253_nulos.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Migrations\\20240806220253_nulos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:02:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProyectoPrueba.csproj",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\ProyectoPrueba.csproj",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\ProyectoPrueba.csproj",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\ProyectoPrueba.csproj",
+              "RelativeToolTip": "ProyectoPrueba\\ProyectoPrueba.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T22:02:03.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\UsuarioController.cs*",
+              "RelativeToolTip": "Servicios\\Controllers\\UsuarioController.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:22:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositorioUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioUsuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\RepositorioUsuarios.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioUsuarios.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\RepositorioUsuarios.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:14:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepositorioUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioUsuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\IRepositorioUsuarios.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioUsuarios.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\IRepositorioUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:13:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:43:54.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240806183135_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240806183135_Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Migrations\\20240806183135_Cliente.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240806183135_Cliente.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Migrations\\20240806183135_Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:31:35.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240804204404_Productos2.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240804204404_Productos2.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Migrations\\20240804204404_Productos2.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240804204404_Productos2.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Migrations\\20240804204404_Productos2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:44:05.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240804202926_producto.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240804202926_producto.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Migrations\\20240804202926_producto.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240804202926_producto.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Migrations\\20240804202926_producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:29:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240804202702_Product.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240804202702_Product.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Migrations\\20240804202702_Product.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Migrations\\20240804202702_Product.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Migrations\\20240804202702_Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:27:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Producto.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\Producto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:18:00.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:32:41.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\DetallePedido.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\DetallePedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:55:26.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:25:23.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Orden.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\Orden.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\Orden.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\Orden.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T17:28:34.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RepositorioOrdens.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioOrdens.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\RepositorioOrdens.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioOrdens.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\RepositorioOrdens.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:35:09.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DetallePedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\DetallePedidoController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\DetallePedidoController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\DetallePedidoController.cs",
+              "RelativeToolTip": "Servicios\\Controllers\\DetallePedidoController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAuwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:26:34.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Entidades\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Entidades\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Entidades\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:24:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdenController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\OrdenController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\OrdenController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\OrdenController.cs",
+              "RelativeToolTip": "Servicios\\Controllers\\OrdenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:21:16.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Servicios\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:21:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Servicios\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:19:46.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Servicios\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:19:29.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositorioProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\RepositorioProductos.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioProductos.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\RepositorioProductos.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvycAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:42:32.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositorioDetallePedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioDetallePedidos.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\RepositorioDetallePedidos.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioDetallePedidos.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\RepositorioDetallePedidos.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwDIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:41:17.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioClientes.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\RepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioClientes.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\RepositorioClientes.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:40:57.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositorioCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioCategorias.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\RepositorioCategorias.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\RepositorioCategorias.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\RepositorioCategorias.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwDAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:40:45.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepositorioDetallePedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioDetallePedidos.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\IRepositorioDetallePedidos.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioDetallePedidos.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\IRepositorioDetallePedidos.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:40:13.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepositorioProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\IRepositorioProductos.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioProductos.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\IRepositorioProductos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:39:31.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepositorioOrdens.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioOrdens.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\IRepositorioOrdens.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioOrdens.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\IRepositorioOrdens.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:38:54.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioClientes.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\IRepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioClientes.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\IRepositorioClientes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:38:36.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositorioCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioCategorias.cs",
+              "RelativeDocumentMoniker": "ProyectoPrueba\\Repositorios\\IRepositorioCategorias.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\ProyectoPrueba\\Repositorios\\IRepositorioCategorias.cs",
+              "RelativeToolTip": "ProyectoPrueba\\Repositorios\\IRepositorioCategorias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:38:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Servicios\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\appsettings.Development.json",
+              "RelativeToolTip": "Servicios\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T20:37:04.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Program.cs",
+              "RelativeDocumentMoniker": "Servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Josue\\source\\repos\\ProyectoPrueba\\Servicios\\Program.cs",
+              "RelativeToolTip": "Servicios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:36:57.457Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

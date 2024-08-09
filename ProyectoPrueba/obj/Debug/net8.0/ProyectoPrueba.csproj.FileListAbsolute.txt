@@ -1,0 +1,14 @@
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\bin\Debug\net8.0\ProyectoPrueba.deps.json
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\bin\Debug\net8.0\ProyectoPrueba.runtimeconfig.json
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\bin\Debug\net8.0\ProyectoPrueba.dll
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\bin\Debug\net8.0\ProyectoPrueba.pdb
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.AssemblyInfoInputs.cache
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.AssemblyInfo.cs
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.dll
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\refint\ProyectoPrueba.dll
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.pdb
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ProyectoPrueba.genruntimeconfig.cache
+C:\Users\Josue\source\repos\ProyectoPrueba\ProyectoPrueba\obj\Debug\net8.0\ref\ProyectoPrueba.dll
